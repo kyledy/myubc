@@ -1,0 +1,7 @@
+{
+  "name": "myUBC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
